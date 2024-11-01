@@ -1,3 +1,9 @@
+remake of https://github.com/saumilthecode/Propoganda so it runs on chromebooks
+
+(abandoned now since online getting links to display embdded links is not the same as a app and that skip.tools exist :D)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
